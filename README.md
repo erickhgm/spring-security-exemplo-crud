@@ -1,6 +1,6 @@
 # Spring Security
-Aplicação realizando CRUD com autenticação.
-## Construído com
+Application performing CRUD with authentication.
+## Built with
 * [Spring Framework](http://projects.spring.io/spring-framework/) - Core support for dependency injection, transaction management, web applications, data access, messaging, testing and more.
 * [Spring Security](https://projects.spring.io/spring-security/) - Spring Security is a framework that focuses on providing both authentication and authorization to Java applications.
 * [Spring Boot](https://projects.spring.io/spring-boot/) - Spring Boot makes it easy to create stand-alone, production-grade Spring based Applications that you can "just run".
